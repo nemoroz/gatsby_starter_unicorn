@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `My Portfolio`,
-    author: `Mohan Talupula`,
-    description: `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi recusandae eos vel provident quod similique facilis error vero quisquam omnis?`,
+    title: `Blog`,
+    author: `Ruslan`,
+    description: ``,
     social: [
       {
         name: `Twitter`,
